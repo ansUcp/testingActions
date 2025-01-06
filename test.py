@@ -1,2 +1,2 @@
 print("Hello World")
-print kio krn
+print("KRdia remove error")
